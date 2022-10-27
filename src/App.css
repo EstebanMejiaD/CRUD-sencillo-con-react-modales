@@ -1,5 +1,8 @@
-.App {
+.App-crud {
   text-align: center;
+  background-color: #ababab;
+  margin-top: 100px;
+  border-radius: 25px;
 }
 
 .App-logo {
